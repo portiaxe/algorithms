@@ -16,7 +16,7 @@ public class Main {
         Path goal = graph.getPath(3,3);
         List<Path> shortestPath = aStar.search(start, goal);
         for(Path p: shortestPath) {
-            System.out.println(p.getLocation());
+            System.out.println(p.getLocation()); //
         }
     }
 }
