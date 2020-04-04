@@ -1,4 +1,4 @@
-package com.portiaxe.algorithms.astar;
+package com.portiaxe.algorithms.graph;
 
 import java.util.ArrayList;
 import java.util.HashSet;

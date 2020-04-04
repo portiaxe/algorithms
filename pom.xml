@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.portiaxe.algorithms.astar.Main</mainClass>
+                            <mainClass>com.portiaxe.algorithms.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

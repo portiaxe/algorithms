@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a41194e-222d-4754-8af3-8361401796b0" name="Default Changelist" comment="" />
+    <list default="true" id="2a41194e-222d-4754-8af3-8361401796b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/astar/AStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/astar/AStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/astar/Graph2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/graph/Graph2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/astar/Location2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/graph/Location2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/astar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/astar/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portiaxe/algorithms/graph/Path.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +51,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.portiaxe.algorithms.astar.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.portiaxe.algorithms.Main" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.portiaxe.algorithms.astar.*" />
+          <option name="PATTERN" value="com.portiaxe.algorithms.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

@@ -1,5 +1,9 @@
 package com.portiaxe.algorithms.astar;
 
+import com.portiaxe.algorithms.graph.Graph2D;
+import com.portiaxe.algorithms.graph.Location2D;
+import com.portiaxe.algorithms.graph.Path;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

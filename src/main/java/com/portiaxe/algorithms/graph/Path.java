@@ -1,4 +1,4 @@
-package com.portiaxe.algorithms.astar;
+package com.portiaxe.algorithms.graph;
 
 public class Path {
     private double f;

@@ -1,4 +1,8 @@
-package com.portiaxe.algorithms.astar;
+package com.portiaxe.algorithms;
+import com.portiaxe.algorithms.astar.AStar;
+import com.portiaxe.algorithms.graph.Graph2D;
+import com.portiaxe.algorithms.graph.Path;
+
 import java.util.List;
 
 public class Main {
