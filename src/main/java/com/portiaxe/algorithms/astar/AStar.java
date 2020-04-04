@@ -1,7 +1,5 @@
 package com.portiaxe.algorithms.astar;
 
-import com.sun.istack.internal.NotNull;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -67,7 +65,7 @@ public class AStar {
         return shortestPath;
     }
 
-    private double getDistanceBetweentPoints(@NotNull Location2D start, @NotNull Location2D end) {
+    private double getDistanceBetweentPoints(Location2D start, Location2D end) {
         return Math.sqrt((end.getY() - start.getY()) * (end.getY() - start.getY()) + (end.getX() - start.getX()) * (end.getX() - start.getX()));
     }
 

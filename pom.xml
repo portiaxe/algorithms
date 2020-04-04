@@ -8,6 +8,10 @@
     <artifactId>algorithms</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
     <build>
         <defaultGoal>install</defaultGoal>
         <plugins>
@@ -18,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.portiaxe.Main</mainClass>
+                            <mainClass>com.portiaxe.algorithms.astar.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
