@@ -7,7 +7,7 @@
     <groupId>com.portiaxe</groupId>
     <artifactId>algorithms</artifactId>
     <version>0.0.1</version>
-
+    <packaging>jar</packaging>
     <build>
         <defaultGoal>install</defaultGoal>
         <plugins>
